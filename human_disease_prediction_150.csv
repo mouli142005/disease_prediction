@@ -1,0 +1,151 @@
+Name,Age,Gender,Weight,Symptom_1,Symptom_2,Symptom_3,Duration,Body_Temperature,Heart_Rate,Disease_Prediction
+Surya,20,Male,60.3,Fever,Nausea,Sneezing,3 days,100.3°F,107 bpm,Flu
+Pooja,64,Female,56.8,Back pain,Chest pain,Headache,5 days,103.2°F,83 bpm,Dengue
+Vikram,49,Male,75.0,Sore throat,Fatigue,Rash,2 days,102.7°F,77 bpm,COVID-19
+Anjali,63,Female,76.9,Rash,Sore throat,Sneezing,4 days,101.0°F,108 bpm,Flu
+Neha,48,Female,72.6,Chest pain,Vomiting,Headache,3 days,100.4°F,94 bpm,Cold
+Priya,26,Female,62.8,Rash,Body Pain,Cough,5 days,103.2°F,89 bpm,Migraine
+Divya,65,Female,63.8,Fatigue,Back pain,Runny nose,7 days,98.9°F,88 bpm,Bronchitis
+Shreya,20,Female,49.0,Headache,Fatigue,Fever,6 days,100.3°F,76 bpm,Typhoid
+Sneha,65,Male,61.6,Nausea,Sneezing,Headache,6 days,101.7°F,77 bpm,COVID-19
+Shreya,44,Male,72.2,Headache,Fatigue,Chest pain,6 days,99.5°F,76 bpm,Malaria
+Ajay,67,Male,75.5,Nausea,Fever,Sneezing,3 days,103.0°F,71 bpm,Viral Infection
+Ajay,60,Male,66.4,Fatigue,Fever,Chest pain,7 days,102.6°F,89 bpm,Dengue
+Ramesh,42,Male,67.5,Back pain,Vomiting,Runny nose,3 days,98.5°F,100 bpm,Malaria
+Rahim,26,Female,69.1,Vomiting,Chest pain,Sore throat,1 days,101.1°F,98 bpm,Migraine
+Divya,48,Male,48.6,Sneezing,Chest pain,Itching,6 days,97.8°F,71 bpm,Malaria
+Sneha,35,Male,63.7,Headache,Body Pain,Vomiting,2 days,97.6°F,79 bpm,Malaria
+Ramesh,52,Female,62.4,Back pain,Vomiting,Chest pain,4 days,98.1°F,91 bpm,Flu
+Ramesh,58,Male,78.0,Chest pain,Body Pain,Runny nose,4 days,100.4°F,84 bpm,Bronchitis
+Ramesh,18,Male,65.4,Rash,Nausea,Itching,3 days,100.2°F,94 bpm,Flu
+Surya,62,Female,87.4,Sore throat,Cough,Chest pain,4 days,98.8°F,83 bpm,Allergy
+Farhan,63,Female,84.1,Chest pain,Nausea,Body Pain,2 days,100.3°F,100 bpm,Migraine
+Shreya,24,Male,74.7,Back pain,Vomiting,Body Pain,3 days,99.2°F,90 bpm,Bronchitis
+Ravi,44,Female,79.2,Sneezing,Cough,Headache,6 days,98.7°F,103 bpm,Viral Infection
+Sneha,46,Male,79.6,Sneezing,Back pain,Body Pain,2 days,98.2°F,106 bpm,Flu
+Anjali,53,Female,66.1,Rash,Vomiting,Itching,4 days,100.8°F,98 bpm,Flu
+Ajay,23,Female,49.4,Cough,Chest pain,Back pain,4 days,103.4°F,99 bpm,Allergy
+Latha,23,Female,45.8,Sneezing,Headache,Chest pain,2 days,103.2°F,107 bpm,Viral Infection
+Naveen,30,Male,80.2,Body Pain,Headache,Fever,7 days,97.8°F,83 bpm,Migraine
+Priya,21,Male,73.8,Back pain,Headache,Nausea,1 days,102.1°F,80 bpm,Dengue
+Meena,31,Male,80.5,Headache,Fever,Runny nose,4 days,98.2°F,73 bpm,COVID-19
+Naveen,60,Female,47.7,Back pain,Vomiting,Rash,3 days,103.2°F,98 bpm,Malaria
+Arjun,44,Male,73.6,Fever,Nausea,Cough,6 days,100.4°F,88 bpm,Bronchitis
+Farhan,35,Female,81.5,Nausea,Chest pain,Body Pain,2 days,102.9°F,71 bpm,Flu
+Divya,18,Male,52.4,Sneezing,Sore throat,Itching,2 days,100.1°F,109 bpm,Migraine
+Surya,27,Male,72.3,Nausea,Fever,Headache,4 days,100.3°F,102 bpm,Migraine
+Rahim,36,Female,81.0,Vomiting,Fatigue,Sneezing,4 days,101.2°F,98 bpm,Migraine
+Latha,43,Male,74.0,Nausea,Sneezing,Runny nose,3 days,97.6°F,110 bpm,Dengue
+Meena,34,Male,48.9,Headache,Chest pain,Vomiting,1 days,101.9°F,102 bpm,Typhoid
+Divya,32,Male,72.3,Fever,Rash,Body Pain,7 days,103.1°F,84 bpm,Malaria
+Ajay,23,Male,83.4,Nausea,Body Pain,Sneezing,2 days,98.3°F,91 bpm,Migraine
+Arjun,24,Female,65.4,Fever,Rash,Nausea,2 days,102.2°F,78 bpm,COVID-19
+Latha,25,Female,70.9,Fatigue,Sneezing,Runny nose,3 days,101.3°F,76 bpm,Dengue
+Ajay,23,Male,77.9,Sneezing,Nausea,Fever,5 days,101.6°F,91 bpm,Migraine
+Karthik,48,Male,79.2,Vomiting,Headache,Chest pain,6 days,102.2°F,77 bpm,Malaria
+Deepa,66,Male,86.2,Fever,Back pain,Fatigue,5 days,99.6°F,73 bpm,Dengue
+Arjun,22,Female,58.0,Sore throat,Cough,Fatigue,4 days,101.2°F,99 bpm,Migraine
+Anjali,33,Male,69.2,Rash,Headache,Body Pain,2 days,97.9°F,85 bpm,Cold
+Priya,23,Male,85.0,Nausea,Cough,Chest pain,3 days,103.2°F,72 bpm,COVID-19
+Latha,52,Female,47.7,Itching,Sneezing,Vomiting,6 days,98.9°F,92 bpm,Cold
+Vikram,34,Female,84.6,Runny nose,Itching,Back pain,7 days,98.8°F,87 bpm,Allergy
+Meena,39,Female,53.3,Nausea,Back pain,Runny nose,1 days,100.2°F,99 bpm,COVID-19
+Deepa,56,Female,51.3,Body Pain,Fever,Chest pain,1 days,103.1°F,110 bpm,Migraine
+Latha,58,Female,81.7,Headache,Itching,Sore throat,1 days,103.1°F,106 bpm,Malaria
+Karthik,47,Female,74.7,Runny nose,Back pain,Fever,7 days,101.4°F,110 bpm,Bronchitis
+Arjun,62,Female,85.9,Fatigue,Nausea,Runny nose,6 days,103.2°F,92 bpm,Cold
+Naveen,40,Female,46.0,Nausea,Sore throat,Fatigue,6 days,101.1°F,74 bpm,Cold
+Surya,53,Male,71.2,Runny nose,Sneezing,Headache,3 days,100.5°F,98 bpm,Viral Infection
+Naveen,40,Male,75.7,Runny nose,Rash,Vomiting,3 days,97.7°F,102 bpm,Malaria
+Pooja,56,Male,86.1,Chest pain,Body Pain,Rash,2 days,101.1°F,98 bpm,Allergy
+Shreya,63,Female,87.2,Body Pain,Chest pain,Cough,7 days,103.0°F,76 bpm,Viral Infection
+Arjun,51,Female,67.7,Vomiting,Cough,Chest pain,6 days,98.4°F,72 bpm,Dengue
+Neha,26,Male,51.3,Rash,Vomiting,Headache,6 days,98.9°F,91 bpm,Typhoid
+Shreya,36,Male,53.2,Body Pain,Fever,Sneezing,4 days,101.3°F,107 bpm,Bronchitis
+Pooja,54,Male,50.0,Rash,Back pain,Nausea,6 days,98.7°F,101 bpm,Dengue
+Latha,60,Female,57.1,Nausea,Fever,Fatigue,5 days,98.2°F,80 bpm,Cold
+Meena,66,Female,47.9,Sore throat,Fatigue,Rash,4 days,101.5°F,82 bpm,Malaria
+Meena,55,Male,56.9,Headache,Fatigue,Nausea,7 days,103.1°F,95 bpm,Flu
+Anjali,25,Male,60.7,Sore throat,Chest pain,Sneezing,4 days,101.2°F,88 bpm,Flu
+Naveen,35,Male,70.2,Nausea,Cough,Body Pain,4 days,100.4°F,72 bpm,COVID-19
+Ajay,69,Male,73.5,Runny nose,Back pain,Sore throat,6 days,99.4°F,80 bpm,Allergy
+Sneha,64,Female,87.0,Rash,Sneezing,Vomiting,1 days,100.8°F,97 bpm,COVID-19
+Anjali,25,Female,84.8,Back pain,Fatigue,Runny nose,5 days,97.6°F,90 bpm,Dengue
+Anjali,34,Male,62.9,Rash,Vomiting,Runny nose,7 days,99.0°F,104 bpm,Typhoid
+Vikram,28,Female,58.0,Runny nose,Headache,Body Pain,6 days,97.9°F,104 bpm,COVID-19
+Latha,26,Female,74.6,Chest pain,Nausea,Body Pain,5 days,97.6°F,83 bpm,Migraine
+Surya,40,Male,78.4,Nausea,Cough,Fatigue,5 days,98.4°F,80 bpm,Flu
+Farhan,33,Male,57.6,Rash,Headache,Body Pain,7 days,102.1°F,107 bpm,Typhoid
+Sneha,33,Female,70.5,Headache,Cough,Vomiting,2 days,100.4°F,89 bpm,Bronchitis
+Arjun,54,Male,86.2,Rash,Headache,Sneezing,5 days,99.5°F,70 bpm,Dengue
+Rahim,45,Male,84.3,Body Pain,Itching,Back pain,1 days,99.8°F,90 bpm,Malaria
+Divya,64,Male,77.5,Fever,Headache,Cough,7 days,100.3°F,106 bpm,Bronchitis
+Divya,43,Female,72.7,Sneezing,Fever,Itching,3 days,97.5°F,96 bpm,Cold
+Shreya,49,Male,47.3,Fever,Fatigue,Body Pain,7 days,101.7°F,92 bpm,Cold
+Naveen,44,Female,67.9,Sore throat,Vomiting,Fever,4 days,97.8°F,94 bpm,Cold
+Neha,25,Male,80.6,Sneezing,Rash,Chest pain,6 days,97.9°F,95 bpm,Malaria
+Ramesh,64,Female,88.9,Vomiting,Chest pain,Back pain,3 days,98.5°F,93 bpm,Bronchitis
+Arjun,25,Male,68.2,Body Pain,Rash,Vomiting,5 days,102.9°F,84 bpm,COVID-19
+Anjali,44,Female,71.0,Fatigue,Rash,Vomiting,3 days,99.0°F,110 bpm,Cold
+Karthik,63,Male,82.1,Sneezing,Runny nose,Fever,2 days,100.8°F,84 bpm,Cold
+Sneha,29,Female,64.4,Fever,Headache,Sneezing,4 days,98.0°F,71 bpm,Flu
+Sneha,32,Female,62.1,Sneezing,Body Pain,Back pain,5 days,102.6°F,103 bpm,Bronchitis
+Neha,28,Male,73.0,Chest pain,Nausea,Sore throat,1 days,102.1°F,85 bpm,Allergy
+Meena,21,Male,78.4,Cough,Sore throat,Body Pain,6 days,99.5°F,81 bpm,Bronchitis
+Vikram,20,Female,73.8,Body Pain,Fever,Rash,6 days,97.7°F,98 bpm,Dengue
+Karthik,25,Female,53.2,Runny nose,Cough,Itching,1 days,101.6°F,98 bpm,Malaria
+Ajay,56,Female,58.1,Itching,Back pain,Sore throat,1 days,97.5°F,96 bpm,Migraine
+Priya,68,Female,47.6,Back pain,Chest pain,Sore throat,2 days,98.9°F,101 bpm,Viral Infection
+Ramesh,45,Female,79.3,Sneezing,Runny nose,Rash,1 days,100.4°F,72 bpm,Cold
+Sneha,39,Female,71.5,Chest pain,Cough,Runny nose,7 days,102.4°F,93 bpm,Viral Infection
+Arjun,67,Female,76.1,Fatigue,Chest pain,Vomiting,1 days,101.0°F,74 bpm,Dengue
+Rahim,36,Female,86.7,Headache,Vomiting,Itching,7 days,100.3°F,85 bpm,Viral Infection
+Pooja,24,Female,77.9,Headache,Chest pain,Runny nose,4 days,102.5°F,86 bpm,Bronchitis
+Ramesh,43,Female,79.3,Nausea,Fatigue,Rash,5 days,97.6°F,109 bpm,Typhoid
+Arjun,51,Female,73.9,Vomiting,Body Pain,Rash,6 days,98.3°F,91 bpm,Viral Infection
+Farhan,35,Male,85.8,Sore throat,Itching,Body Pain,7 days,103.0°F,100 bpm,Typhoid
+Shreya,21,Male,87.0,Nausea,Rash,Vomiting,6 days,98.5°F,79 bpm,Viral Infection
+Latha,47,Female,63.7,Cough,Chest pain,Body Pain,2 days,100.9°F,110 bpm,Malaria
+Neha,56,Female,82.2,Sore throat,Nausea,Fatigue,3 days,99.6°F,94 bpm,COVID-19
+Pooja,52,Male,49.7,Rash,Body Pain,Sneezing,2 days,97.7°F,76 bpm,Typhoid
+Rahim,18,Female,55.5,Vomiting,Fever,Fatigue,2 days,97.5°F,98 bpm,Allergy
+Divya,21,Female,63.6,Fatigue,Vomiting,Back pain,6 days,102.4°F,76 bpm,Bronchitis
+Ravi,42,Female,86.9,Vomiting,Body Pain,Back pain,4 days,102.7°F,110 bpm,Dengue
+Latha,68,Female,89.4,Nausea,Runny nose,Chest pain,7 days,103.0°F,96 bpm,Flu
+Pooja,30,Male,50.7,Sore throat,Fatigue,Headache,2 days,100.7°F,71 bpm,Typhoid
+Ajay,39,Female,60.7,Sore throat,Back pain,Sneezing,4 days,98.5°F,102 bpm,Dengue
+Rahim,44,Female,49.0,Vomiting,Rash,Headache,7 days,102.7°F,85 bpm,COVID-19
+Vikram,34,Female,87.4,Nausea,Sore throat,Headache,2 days,100.2°F,78 bpm,Dengue
+Arjun,25,Male,59.4,Headache,Cough,Sore throat,6 days,100.5°F,76 bpm,Allergy
+Naveen,19,Female,61.7,Body Pain,Chest pain,Itching,1 days,101.6°F,94 bpm,Bronchitis
+Surya,44,Female,76.6,Sneezing,Cough,Itching,2 days,99.8°F,91 bpm,Typhoid
+Naveen,49,Female,70.7,Sore throat,Itching,Fatigue,6 days,102.7°F,105 bpm,Typhoid
+Ajay,54,Female,52.7,Back pain,Runny nose,Sneezing,5 days,103.3°F,103 bpm,COVID-19
+Naveen,66,Male,47.3,Rash,Sneezing,Itching,1 days,100.9°F,92 bpm,Cold
+Latha,41,Female,56.4,Vomiting,Back pain,Chest pain,2 days,100.7°F,95 bpm,COVID-19
+Divya,47,Female,82.3,Cough,Sneezing,Body Pain,6 days,102.7°F,96 bpm,Viral Infection
+Surya,45,Female,75.6,Cough,Body Pain,Runny nose,6 days,97.7°F,107 bpm,Flu
+Priya,47,Female,89.8,Vomiting,Cough,Nausea,5 days,102.4°F,108 bpm,Malaria
+Karthik,22,Male,80.2,Runny nose,Sneezing,Fever,6 days,101.2°F,93 bpm,Cold
+Arjun,53,Male,62.2,Back pain,Fever,Rash,4 days,99.9°F,92 bpm,Cold
+Meena,58,Female,57.6,Vomiting,Cough,Nausea,2 days,101.4°F,82 bpm,Viral Infection
+Surya,56,Female,67.6,Chest pain,Fever,Runny nose,4 days,102.2°F,97 bpm,Flu
+Farhan,34,Male,66.0,Vomiting,Runny nose,Fatigue,6 days,97.9°F,93 bpm,Malaria
+Rahim,50,Male,67.7,Sore throat,Headache,Nausea,6 days,101.5°F,106 bpm,Allergy
+Pooja,53,Male,84.0,Back pain,Sore throat,Headache,6 days,100.4°F,78 bpm,Malaria
+Neha,49,Female,84.4,Sneezing,Body Pain,Rash,2 days,100.7°F,90 bpm,Cold
+Arjun,45,Female,68.2,Fatigue,Sneezing,Headache,6 days,101.5°F,82 bpm,Flu
+Farhan,24,Female,72.3,Back pain,Cough,Fever,2 days,101.8°F,92 bpm,Viral Infection
+Ramesh,43,Female,74.2,Back pain,Cough,Chest pain,2 days,103.2°F,91 bpm,Flu
+Karthik,21,Male,79.3,Body Pain,Vomiting,Rash,1 days,103.1°F,81 bpm,COVID-19
+Deepa,41,Male,52.6,Back pain,Headache,Runny nose,2 days,100.7°F,109 bpm,Viral Infection
+Surya,67,Male,60.9,Cough,Headache,Sore throat,7 days,100.0°F,87 bpm,Malaria
+Pooja,24,Male,59.1,Itching,Vomiting,Nausea,7 days,102.3°F,95 bpm,Malaria
+Neha,59,Male,67.9,Vomiting,Back pain,Fatigue,4 days,98.2°F,89 bpm,Viral Infection
+Arjun,28,Female,81.6,Runny nose,Cough,Rash,4 days,102.1°F,93 bpm,Viral Infection
+Latha,53,Male,56.3,Itching,Fever,Back pain,6 days,102.5°F,85 bpm,Dengue
+Naveen,63,Male,71.6,Nausea,Cough,Runny nose,2 days,101.1°F,110 bpm,Cold
+Vikram,54,Male,47.4,Fever,Nausea,Sore throat,5 days,102.1°F,84 bpm,Allergy
+Surya,28,Male,86.3,Back pain,Fatigue,Sore throat,6 days,97.8°F,108 bpm,Malaria
+Karthik,28,Female,45.9,Headache,Rash,Vomiting,5 days,103.1°F,92 bpm,Malaria
+Farhan,61,Male,68.4,Fever,Runny nose,Itching,7 days,99.4°F,99 bpm,Flu
